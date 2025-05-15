@@ -1,0 +1,2 @@
+C:/Users/hp/dev/skill_build_project/android/app/.cxx/Debug/29542q28/x86/CMakeFiles/edit_cache.dir
+C:/Users/hp/dev/skill_build_project/android/app/.cxx/Debug/29542q28/x86/CMakeFiles/rebuild_cache.dir
