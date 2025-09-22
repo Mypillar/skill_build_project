@@ -183,6 +183,7 @@ class _MainHomePageState extends State<MainHomePage> {
                         borderRadius: BorderRadius.circular(15),
                         boxShadow: [
                           BoxShadow(
+                            // ignore: deprecated_member_use
                             color: Colors.grey.withOpacity(0.3),
                             blurRadius: 6,
                             offset: const Offset(0, 4),
@@ -247,6 +248,7 @@ class _MainHomePageState extends State<MainHomePage> {
                         color: Colors.grey[100],
                         boxShadow: [
                           BoxShadow(
+                            // ignore: deprecated_member_use
                             color: Colors.grey.withOpacity(0.2),
                             blurRadius: 6,
                             offset: const Offset(2, 4),
@@ -310,6 +312,7 @@ class _MainHomePageState extends State<MainHomePage> {
                         fontWeight: FontWeight.w600,
                       ),
                       elevation: isSelected ? 4 : 0,
+                      // ignore: deprecated_member_use
                       shadowColor: Colors.teal.withOpacity(0.4),
                     ),
                   );
